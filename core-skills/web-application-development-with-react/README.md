@@ -14,7 +14,7 @@ with React components
 ## Sections
 
 1. [React - Why and when should I use it?](./why-and-when.md)
-1. [Setting up a React project](./setup.md)
+2. [Setting up a React project](./setup.md)
 
 ## Mark Scheme
 
